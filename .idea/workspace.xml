@@ -9,10 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4ae3083-17d6-424c-9041-94b430860cf5" name="Changes" comment="Classes to run server added.">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c4ae3083-17d6-424c-9041-94b430860cf5" name="Changes" comment="MANIFEST added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +47,7 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "I:/JavaProjects/Web_authorization_app/src/main/webapp/WEB-INF/views/answer",
     "project.structure.last.edited": "Artifacts",
@@ -98,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657649836417</updated>
-      <workItem from="1657649838758" duration="2767000" />
+      <workItem from="1657649838758" duration="3120000" />
     </task>
     <task id="LOCAL-00001" summary="Init project">
       <created>1657649930568</created>
@@ -170,7 +168,21 @@
       <option name="project" value="LOCAL" />
       <updated>1657652181305</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Artefacts added">
+      <created>1657652697014</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1657652697014</updated>
+    </task>
+    <task id="LOCAL-00012" summary="MANIFEST added">
+      <created>1657652712781</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1657652712781</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,6 +222,8 @@
     <MESSAGE value="Answer page views" />
     <MESSAGE value="Added class to run server." />
     <MESSAGE value="Classes to run server added." />
-    <option name="LAST_COMMIT_MESSAGE" value="Classes to run server added." />
+    <MESSAGE value="Artefacts added" />
+    <MESSAGE value="MANIFEST added" />
+    <option name="LAST_COMMIT_MESSAGE" value="MANIFEST added" />
   </component>
 </project>
