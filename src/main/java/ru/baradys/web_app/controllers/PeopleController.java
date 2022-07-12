@@ -6,6 +6,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
+import ru.baradys.web_app.config.MainClass;
 import ru.baradys.web_app.models.Person;
 
 @Controller
@@ -19,7 +20,7 @@ public class PeopleController {
     }
     @PostMapping()
     public String create(@ModelAttribute("person") Person person){
-        if(person.getName().equals(System.getProperty("user.name")))
+        if(MainClass.result.contains(person.getName()))
             return "redirect:/welcome?name=" + person.getName();
 
         return "redirect:/notAllowed?name=" + person.getName();
