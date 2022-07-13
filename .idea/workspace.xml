@@ -9,11 +9,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4ae3083-17d6-424c-9041-94b430860cf5" name="Changes" comment="MANIFEST added" />
+    <list default="true" id="c4ae3083-17d6-424c-9041-94b430860cf5" name="Changes" comment="Project is ready to test">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/static/auth.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Web_authorization_app_jar/Web_authorization_app.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Web_authorization_app_jar/Web_authorization_app.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/baradys/web_app/config/SpringConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/baradys/web_app/config/SpringConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/baradys/web_app/controllers/FirstController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/baradys/web_app/controllers/FirstController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/answer/notAllowed.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/answer/notAllowed.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/answer/welcome.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/answer/welcome.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/user/auth.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/user/auth.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -49,17 +67,24 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "I:/JavaProjects/Web_authorization_app/src/main/webapp/WEB-INF/views/answer",
+    "last_opened_file_path": "I:/JavaProjects/Web_authorization_app/src/main/webapp/resources/css",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "File.Encoding",
+    "spring.configuration.checksum": "60a39d6106225cb511fd8d322e388f17"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\JavaProjects\Web_authorization_app\src\main\webapp\resources\css" />
       <recent name="I:\JavaProjects\Web_authorization_app\src\main\webapp\WEB-INF\views\answer" />
       <recent name="I:\JavaProjects\Web_authorization_app\src\main\webapp\WEB-INF\views\user" />
       <recent name="I:\JavaProjects\Web_authorization_app\src\main\java\ru\baradys\web_app\config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="I:\JavaProjects\Web_authorization_app\src\main\webapp\resources\static" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ru.baradys.web_app.controllers" />
@@ -97,6 +122,7 @@
       <option name="presentableId" value="Default" />
       <updated>1657649836417</updated>
       <workItem from="1657649838758" duration="3120000" />
+      <workItem from="1657706219443" duration="3663000" />
     </task>
     <task id="LOCAL-00001" summary="Init project">
       <created>1657649930568</created>

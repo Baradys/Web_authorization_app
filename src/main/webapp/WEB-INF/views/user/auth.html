@@ -7,10 +7,10 @@
 <body>
 
 <form th:method="POST" th:action="@{/}" th:object="${person}">
-    <label for="name">Enter name: </label>
+    <label for="name">Введите имя: </label>
     <input type="text" th:field="*{name}" id="name"/>
     <br/>
-    <input type="submit" value="Check"/>
+    <input type="submit" value="Проверить"/>
 </form>
 
 </body>

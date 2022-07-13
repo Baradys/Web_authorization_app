@@ -11,7 +11,7 @@ public class FirstController {
     @GetMapping("/welcome")
     public String welcome(@RequestParam(value = "name") String name,
                             Model model){
-    model.addAttribute("message", "User " + name + " is here");
+    model.addAttribute("message", "Пользователь " + name + " есть");
 
 
         return "answer/welcome";
@@ -19,7 +19,7 @@ public class FirstController {
 
     @GetMapping("/notAllowed")
     public String notAllowed(@RequestParam("name") String name, Model model){
-        model.addAttribute("message", "User " + name + " is not here");
+        model.addAttribute("message", "Пользователя " + name + " нет");
         return "answer/notAllowed";
     }
 }
